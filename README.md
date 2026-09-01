@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
-<h3 align="center">CSE Graduate | Full-Stack Developer | Exploring Data Mining, Machine Learning & Cybersecurity</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CSE+Graduate+%7C+Full-Stack+Developer;Exploring+Data+Mining%2C+ML+%26+Cybersecurity" alt="Typing SVG" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamminhaz31&label=Profile%20views&color=0e75b6&style=flat" alt="iamminhaz31" /> </p>
 
