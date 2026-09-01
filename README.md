@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4166,100:1e88e5&height=200&section=header&text=Minhajul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Graduate%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/iamminhaz31/iamminhaz31/main/github_banner.png" width="100%"/> </p>
 
 <h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
 
