@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-CSE graduate building toward full-stack web development and machine learning, currently strengthening my foundations through **Programming Hero's** web development track. I like turning fundamentals like semantic HTML, clean JS, solid Git workflows into real, working projects before moving up the stack.
+CSE Student passionate about AI-Driven Full Stack Development, Machine Learning, Cyber Security, and solving real-world problems through software. Currently strengthening my foundations through **Programming Hero's** web development track — turning fundamentals into real, working projects before moving up the stack.
 
 | 📍 Location | 🎓 Background | 🎯 Current Focus | 📚 Currently Learning |
 |:---:|:---:|:---:|:---:|
@@ -93,7 +93,12 @@ CSE graduate building toward full-stack web development and machine learning, cu
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamminhaz31)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com/in/minhajul-islam-2b382b41a](https://www.linkedin.com/in/minhajul-islam-2b382b41a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhajul-islam-2b382b41a/)
+[![Facebook](https://img.shields.io/badge/Facebook-14532D?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/minhajul.islaam.tanjil)
+[![Instagram](https://img.shields.io/badge/Instagram-2EA44F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_minhazz)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhajultanjil143@gmail.com)
+
+📍 Dhaka, Bangladesh
 
 </div>
 
