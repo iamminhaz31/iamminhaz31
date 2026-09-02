@@ -11,11 +11,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 CSE graduate building toward full-stack web development and machine learning, currently strengthening my foundations through **Programming Hero's** web development track. I like turning fundamentals — semantic HTML, clean JS, solid Git workflows — into real, working projects before moving up the stack.
 
-| 📍 Location | 🎓 Background | 🎯 Current Focus | 📚 Currently Learning |
+|  Location |  Background |  Current Focus |  Currently Learning |
 |:---:|:---:|:---:|:---:|
 | Bangladesh | CSE Graduate | Full-Stack Dev + ML | Web Dev @ Programming Hero |
 
