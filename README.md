@@ -93,7 +93,7 @@ CSE graduate building toward full-stack web development and machine learning, cu
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamminhaz31)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://linkedin.com/in/minhajul-islam-2b382b41a))
 
 </div>
 
