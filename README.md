@@ -1,66 +1,99 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/iamminhaz31/iamminhaz31/main/github_banner.png" width="100%"/> </p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Minhajul Islam</h1>
+# 👋 Hi, I'm Minhajul Islam Tanjil (Minu)
+### Full-Stack Developer & ML Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=CSE+Graduate+%7C+Full-Stack+Developer;Exploring+Data+Mining%2C+ML+%26+Cybersecurity" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=CSE+Graduate;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Currently+leveling+up+at+Programming+Hero)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamminhaz31&label=Profile%20views&color=0e75b6&style=flat" alt="iamminhaz31" /> </p>
+</div>
 
-- 🔭 I’m currently working on **my personal portfolio**
+---
 
-- 🌱 I’m currently learning **React, vue, GSAP, CSS, Git and the fundamentals of ML & cybersecurity**
+## 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Full-stack web apps and beginner-friendly ML & Cybersecurity projects**
+CSE graduate building toward full-stack web development and machine learning, currently strengthening my foundations through **Programming Hero's** web development track. I like turning fundamentals — semantic HTML, clean JS, solid Git workflows — into real, working projects before moving up the stack.
 
-- 🤝 I’m looking for help with **Real-world deepfake video & audio detection research and applied ML**
+| 📍 Location | 🎓 Background | 🎯 Current Focus | 📚 Currently Learning |
+|:---:|:---:|:---:|:---:|
+| Bangladesh | CSE Graduate | Full-Stack Dev + ML | Web Dev @ Programming Hero |
 
-- 👨‍💻 All of my projects are available at [github.com/iamminhaz31](https://github.com/iamminhaz31)
+---
 
-- 💬 Ask me about **React, vue, GSAP, CSS, and Git fundamentals**
+## 🛠️ Tech Stack & Tooling
 
-- 📫 How to reach me **minhajultanjil143@gmail.com**
+**Frontend**
 
-- ⚡ Fun fact **I enjoy turning half-finished side projects into portfolio pieces**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2EA44F?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-14532D?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/minhajul-islam-2b382b41a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhajul islam" height="30" width="40" /></a>
-<a href="https://fb.com/minhajul.islaam.tanjil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhajul.islaam.tanjil" height="30" width="40" /></a>
-<a href="https://instagram.com/im_minhazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_minhazz" height="30" width="40" /></a>
-</p>
+**Backend & Databases**
 
-<h3 align="left">🛠️ Technology Stack:</h3>
+![Node.js](https://img.shields.io/badge/Node.js-2EA44F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-14532D?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-2EA44F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,php" />
-</p>
+**Machine Learning**
 
-**CSS Frameworks & Libraries**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</p>
+![Python](https://img.shields.io/badge/Python-14532D?style=for-the-badge&logo=python&logoColor=FFD43B)
+![NumPy](https://img.shields.io/badge/NumPy-2EA44F?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-14532D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-**Frameworks & Libraries**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,flutter" />
-</p>
+**Workflow & Tools**
 
-**Database & Data Science**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,pytorch,tensorflow,opencv,pandas" />
-</p>
+![Git](https://img.shields.io/badge/Git-2EA44F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-14532D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-**Design & Graphics**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-</p>
+---
 
-**Tools & Technologies**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arduino,bash,matlab" />
-</p>
+## 📈 Learning Progression
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=iamminhaz31&" alt="iamminhaz31" /></p>
+| Domain | Focus Areas | Progress |
+|---|---|:---:|
+| Web Fundamentals & UI | Semantic HTML5, CSS3, Responsive Design, Flexbox/Grid | ▓▓▓▓▓▓▓▓░░ 80% |
+| JavaScript & DOM | ES6+ Syntax, Scopes, Closures, Array Methods | ▓▓▓▓▓▓▓░░░ 70% |
+| Git & GitHub | Version Control, Branching, Collaboration Workflow | ▓▓▓▓▓▓▓▓░░ 80% |
+| React & SPA Ecosystem | Components, Hooks, React Router | ▓▓▓▓░░░░░░ 40% |
+| Backend & REST APIs | Node.js, Express.js, Routing, Middleware | ▓▓▓░░░░░░░ 30% |
+| Machine Learning Foundations | Python, Data Analysis, Core ML Concepts | ▓▓▓░░░░░░░ 30% |
+
+---
+
+## 📌 Featured Repositories
+
+| Repository | Description | Stack |
+|---|---|---|
+| *(add your project)* | *(short description)* | *(tech used)* |
+| *(add your project)* | *(short description)* | *(tech used)* |
+| *(add your project)* | *(short description)* | *(tech used)* |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamminhaz31&show_icons=true&theme=github_dark&hide_border=true&title_color=2EA44F&icon_color=2EA44F&text_color=c9d1d9&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamminhaz31&layout=compact&theme=github_dark&hide_border=true&title_color=2EA44F&text_color=c9d1d9&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamminhaz31&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamminhaz31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+
+</div>
+
+</div>
