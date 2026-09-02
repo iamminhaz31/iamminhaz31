@@ -61,7 +61,7 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 | Git & GitHub | Version Control, Branching, Collaboration Workflow | ▓▓▓▓▓▓▓▓░░ 80% |
 | React & SPA Ecosystem | Components, Hooks, React Router | ▓▓▓▓░░░░░░ 40% |
 | Backend & REST APIs | Node.js, Express.js, Routing, Middleware | ▓▓▓░░░░░░░ 30% |
-| Machine Learning Foundations | Python, Data Analysis, Core ML Concepts | ▓▓▓░░░░░░░ 30% |
+| Machine Learning Foundations | Python, Data Analysis, Core ML Concepts | ▓▓▓▓▓▓▓░░░ 70% |
 
 ---
 
