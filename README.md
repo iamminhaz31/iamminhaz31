@@ -78,9 +78,9 @@ CSE graduate building toward full-stack web development and machine learning, cu
 
 <div align="center">
 
-![Minu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamminhaz31&show_icons=true&theme=github_dark&hide_border=true&title_color=2EA44F&icon_color=2EA44F&text_color=c9d1d9&bg_color=0d1117)
+![Minu's GitHub stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamminhaz31&layout=compact&theme=github_dark&hide_border=true&title_color=2EA44F&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](./profile/top-langs.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamminhaz31&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2EA44F&fire=2EA44F&currStreakLabel=2EA44F)
 
