@@ -2,7 +2,7 @@
 
 <img src="./github_banner.png" alt="Minu banner" width="100%" />
 
-# 👋 Hi, I'm Minhajul Islam Tanjil 
+# 👋 Hi, I'm Minhajul Islam Tanjil
 ### Full-Stack Developer & ML Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=CSE+Graduate;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Currently+leveling+up+at+Programming+Hero)
@@ -92,11 +92,11 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamminhaz31)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA44F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhajul-islam-2b382b41a/)
-[![Facebook](https://img.shields.io/badge/Facebook-14532D?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/minhajul.islaam.tanjil)
-[![Instagram](https://img.shields.io/badge/Instagram-2EA44F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_minhazz)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhajultanjil143@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamminhaz31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhajul-islam-2b382b41a/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/minhajul.islaam.tanjil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_minhazz)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhajultanjil143@gmail.com)
 
 📍 Dhaka, Bangladesh
 
