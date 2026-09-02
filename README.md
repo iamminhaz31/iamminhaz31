@@ -2,7 +2,7 @@
 
 <img src="./github_banner.png" alt="Minu banner" width="100%" />
 
-# 👋 Hi, I'm Minhajul Islam Tanjil
+# Hi, I'm Minhajul Islam Tanjil
 ### Full-Stack Developer & ML Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=CSE+Graduate;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Currently+leveling+up+at+Programming+Hero)
@@ -11,17 +11,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 CSE Student passionate about AI-Driven Full Stack Development, Machine Learning, Cyber Security, and solving real-world problems through software. Currently strengthening my foundations through **Programming Hero's** web development track — turning fundamentals into real, working projects before moving up the stack.
 
-| 📍 Location | 🎓 Background | 🎯 Current Focus | 📚 Currently Learning |
+|  Location |  Background |  Current Focus |  Currently Learning |
 |:---:|:---:|:---:|:---:|
 | Bangladesh | CSE Graduate | Full-Stack Dev + ML | Web Dev @ Programming Hero |
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+##  Tech Stack & Tooling
 
 **Frontend**
 
@@ -52,7 +52,7 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 
 ---
 
-## 📈 Learning Progression
+##  Learning Progression
 
 | Domain | Focus Areas | Progress |
 |---|---|:---:|
@@ -65,7 +65,7 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 
 ---
 
-## 📌 Featured Repositories
+##  Featured Repositories
 
 | Repository | Description | Stack |
 |---|---|---|
@@ -74,7 +74,7 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -88,7 +88,7 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
