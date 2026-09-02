@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-CSE graduate building toward full-stack web development and machine learning, currently strengthening my foundations through **Programming Hero's** web development track. I like turning fundamentals — semantic HTML, clean JS, solid Git workflows — into real, working projects before moving up the stack.
+CSE graduate building toward full-stack web development and machine learning, currently strengthening my foundations through **Programming Hero's** web development track. I like turning fundamentals like semantic HTML, clean JS, solid Git workflows into real, working projects before moving up the stack.
 
 | 📍 Location | 🎓 Background | 🎯 Current Focus | 📚 Currently Learning |
 |:---:|:---:|:---:|:---:|
