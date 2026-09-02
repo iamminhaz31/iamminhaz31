@@ -2,7 +2,7 @@
 
 <img src="./github_banner.png" alt="Minu banner" width="100%" />
 
-# 👋 Hi, I'm Minhajul Islam Tanjil
+# 👋 Hi, I'm Minhajul Islam Tanjil (Minu)
 ### Full-Stack Developer & ML Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=CSE+Graduate;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Currently+leveling+up+at+Programming+Hero)
@@ -11,11 +11,11 @@
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
 CSE graduate building toward full-stack web development and machine learning, currently strengthening my foundations through **Programming Hero's** web development track. I like turning fundamentals — semantic HTML, clean JS, solid Git workflows — into real, working projects before moving up the stack.
 
-|  Location |  Background |  Current Focus |  Currently Learning |
+| 📍 Location | 🎓 Background | 🎯 Current Focus | 📚 Currently Learning |
 |:---:|:---:|:---:|:---:|
 | Bangladesh | CSE Graduate | Full-Stack Dev + ML | Web Dev @ Programming Hero |
 
