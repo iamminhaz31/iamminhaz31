@@ -2,7 +2,7 @@
 
 <img src="./github_banner.png" alt="Minu banner" width="100%" />
 
-# 👋 Hi, I'm Minhajul Islam Tanjil (Minu)
+# 👋 Hi, I'm Minhajul Islam Tanjil 
 ### Full-Stack Developer & ML Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=CSE+Graduate;Full-Stack+Web+Developer;Machine+Learning+Enthusiast;Currently+leveling+up+at+Programming+Hero)
