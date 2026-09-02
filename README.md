@@ -13,7 +13,7 @@
 
 ##  About Me
 
-CSE Student passionate about AI-Driven Full Stack Development, Machine Learning, Cyber Security, and solving real-world problems through software. Currently strengthening my foundations through **Programming Hero's** web development track — turning fundamentals into real, working projects before moving up the stack.
+CSE Student passionate about AI-Driven Full Stack Development, Machine Learning, Cyber Security, and solving real-world problems through software. Currently strengthening my foundations through **Programming Hero's** web development track, turning fundamentals into real, working projects before moving up the stack.
 
 |  Location |  Background |  Current Focus |  Currently Learning |
 |:---:|:---:|:---:|:---:|
@@ -98,7 +98,7 @@ CSE Student passionate about AI-Driven Full Stack Development, Machine Learning,
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im_minhazz)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhajultanjil143@gmail.com)
 
-📍 Dhaka, Bangladesh
+ Dhaka, Bangladesh
 
 </div>
 
