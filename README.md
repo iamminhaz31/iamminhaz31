@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./github_banner.png" alt="Minu banner" width="100%" />
+
 # 👋 Hi, I'm Minhajul Islam Tanjil (Minu)
 ### Full-Stack Developer & ML Enthusiast
 
@@ -67,9 +69,8 @@ CSE graduate building toward full-stack web development and machine learning, cu
 
 | Repository | Description | Stack |
 |---|---|---|
-| *(add your project)* | *(short description)* | *(tech used)* |
-| *(add your project)* | *(short description)* | *(tech used)* |
-| *(add your project)* | *(short description)* | *(tech used)* |
+| [minhaz-portfolio](https://github.com/iamminhaz31/minhaz-portfolio) | My Updated Portfolio | CSS |
+| [ph-first-assignment-minhaz](https://github.com/iamminhaz31/ph-first-assignment-minhaz) | My first assignment for Programming Hero course | CSS |
 
 ---
 
