@@ -13,12 +13,13 @@
 
 ##  About Me
 
-CSE Student passionate about AI-Driven Full Stack Development, Machine Learning, Cyber Security, and solving real-world problems through software. Currently strengthening my foundations through **Programming Hero's** web development track, turning fundamentals into real, working projects before moving up the stack.
+I'm Minhajul Islam Tanjil, a Computer Science and Engineering graduate from Green University of Bangladesh. I build responsive web applications with React, Next.js, JavaScript, TypeScript, and Tailwind CSS.
 
-|  Location |  Background |  Current Focus |  Currently Learning |
-|:---:|:---:|:---:|:---:|
-| Bangladesh | CSE Graduate | Full-Stack Dev + ML | Web Dev @ Programming Hero |
+My projects include BazarDor, FitLog, and DevStack. My academic research focused on audio-visual deepfake detection, and I'm interested in machine learning and cybersecurity.
 
+- Portfolio: https://minhaz-portfolio-sooty.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/minhajul-islam-tanjil/
+- Email: minhajultanjil143@gmail.com
 ---
 
 ##  Tech Stack & Tooling
