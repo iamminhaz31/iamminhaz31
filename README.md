@@ -102,6 +102,24 @@ I'm open to **internships and junior web developer opportunities**.
 
 </div>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/iamminhaz31/iamminhaz31/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/iamminhaz31/iamminhaz31/output/github-snake.svg"
+  />
+  <img
+    alt="Snake animation of my GitHub contributions"
+    src="https://raw.githubusercontent.com/iamminhaz31/iamminhaz31/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
 ---
 
 ## Connect with Me
